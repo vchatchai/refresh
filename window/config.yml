@@ -1,0 +1,10 @@
+
+URLRefresh: http://localhost:8081/refresh
+Booking:
+  HeaderFile: "booking_header.csv"
+  TypeFile: "booking_container_type.csv"
+  DetailFile: "booking_container_detail.csv"
+
+Laden:
+  ContainerFile: "laden_container_full.csv"
+  ContainerUser: "laden_container_user.csv"
